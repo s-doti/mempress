@@ -1,5 +1,7 @@
 # mempress
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.github.s-doti/mempress.svg)](https://clojars.org/com.github.s-doti/mempress)
+
 In-memory objects compression.
 
 ## Purpose
